@@ -1,0 +1,13 @@
+author: ccattell
+description: Everything your server needs for a fully functioning economy
+main: me.ccattell.plugins.novusregistry.NovusRegistry
+name: NovusRegistry
+startup: postworld
+version: '1.0'
+commands:
+  register:
+    description: This will update player to second group once they register on the website.
+    usage: /<command>
+  rank:
+    description: This will update player's group to specified rank but only if they have already registered.
+    usage: /<command> <rank> <player>

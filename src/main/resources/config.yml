@@ -1,0 +1,8 @@
+DefaultGroup: 'Visitor'
+DatabaseType: 'sqlite'
+MySQLDatabase:
+  DBName: ''
+  Username: ''
+  Password: ''
+  RegistryTable: ''
+
